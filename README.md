@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working as **Self-employed**
 
-- 🌱 I’m currently learning **React, Redux and Typescript**
+- 🌱 I’m currently learning **React, Redux and TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://juank628.github.io/portfolio/](https://juank628.github.io/portfolio/)
 
-- 💬 Ask me about **Javascript, React and Redux**
+- 💬 Ask me about **JavaScript, React and Redux**
 
 - 📫 How to reach me **jsanchez_zunino@yahoo.com**
 
