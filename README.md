@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Juan Carlos</h1>
 <h3 align="center">A passionate frontend developer from Peru</h3>
 
-- 🔭 I’m currently working on **bohcci online store**
+- 🔭 I’m currently working as **Self-employed**
 
-- 🌱 I’m currently learning **React, Redux and Ruby**
+- 🌱 I’m currently learning **React, Redux and Typescript**
 
 - 👨‍💻 All of my projects are available at [https://juank628.github.io/portfolio/](https://juank628.github.io/portfolio/)
 
