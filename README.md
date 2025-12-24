@@ -1,15 +1,4 @@
 <h1 align="center">Hi 👋, I'm Juan Carlos</h1>
-<h3 align="center">A passionate frontend developer from Peru</h3>
-
-- 🔭 I’m currently working as **Self-employed**
-
-- 🌱 I’m currently learning **React, Redux and TypeScript**
-
-- 👨‍💻 All of my projects are available at [https://juank628.github.io/portfolio/](https://juank628.github.io/portfolio/)
-
-- 💬 Ask me about **JavaScript, React and Redux**
-
-- 📫 How to reach me **jsanchez_zunino@yahoo.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
